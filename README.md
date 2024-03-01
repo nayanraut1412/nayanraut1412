@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on [SustainX](https://github.com/Ninad-Lunge/SustainX)
   
-- 👯Open to collaborate on **Open Source Projects**. Let's build something amazing together!
+- 👯 Open to collaborate on **Open Source Projects**. Let's build something amazing together!
   
 - 📫 Reach me at nayanraut1412@gmail.com
 
