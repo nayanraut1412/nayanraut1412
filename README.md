@@ -12,10 +12,12 @@
 - 👁‍🗨 What's Special about me? **Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.**
 
 - 🔭 I’m currently working on [SustainX](https://github.com/Ninad-Lunge/SustainX)
+  
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach at me nayanraut1412@gmail.com
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
