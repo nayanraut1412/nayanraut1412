@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nayan Raut</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Frontend Developer | Problem-Solving Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanraut1412&label=Profile%20views&color=50c700&style=plastic" alt="nayanraut1412" /> </p>
 
 - 🥋 I'm a very Passionate For **Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.**
 
-- 🌱 I’m currently learning **New Tech Stack for Expanding My Skills set and Knowledge**
-
 - 👨‍💻 Love to learn **new technologies and to explore new sets of areas.**
 
-- 👁‍🗨 What's Special about me? **Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.**
+- 👁‍🗨 What's Special about me? **Quick learner and adept at mastering new skills to solve real-world problems.**
 
-- 🔭 I’m currently working on [SustainX](https://github.com/Ninad-Lunge/SustainX)
+- 🔭 Currently working on [SustainX](https://github.com/Ninad-Lunge/SustainX)
   
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach at me nayanraut1412@gmail.com
+- 👯Open to collaborate on **Open Source Projects**. Let's build something amazing together!
+  
+- 📫 Reach me at nayanraut1412@gmail.com
 
 
 
