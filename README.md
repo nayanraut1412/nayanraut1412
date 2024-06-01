@@ -9,7 +9,7 @@
 
 - 👁‍🗨 What's Special about me? **Quick learner and adept at mastering new skills to solve real-world problems.**
 
-- 🔭 Currently working on [SustainX](https://github.com/Ninad-Lunge/SustainX)
+- 🔭 Currently working on [Customer Retirement Planner](https://github.com/Aditya1634/customer_retirement_planner)
   
 - 👯 Open to collaborate on **Open Source Projects**. Let's build something amazing together!
   
