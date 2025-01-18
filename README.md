@@ -9,7 +9,7 @@
 
 - 👁‍🗨 What's Special about me? **Quick learner and adept at mastering new skills to solve real-world problems.**
 
-- 🔭 Currently working on [Margdarshak](https://github.com/nayanraut1412/Margdarshak)
+- 🔭 Currently focusing on client projects and skill enhancement.
   
 - 👯 Open to collaborate on **Open Source Projects**. Let's build something amazing together!
   
