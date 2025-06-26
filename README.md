@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanraut1412&show_icons=true&theme=dark&locale=en&layout=compact" alt="nayanraut1412" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanraut1412&theme=dark" alt="nayanraut1412" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanraut1412&" alt="nayanraut1412" /></p>
+
