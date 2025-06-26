@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Raut</h1>
-<h3 align="center">Passionate Frontend Developer | Problem-Solving Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Crafting Seamless Frontend Interfaces & Reliable Backend Logic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanraut1412&label=Profile%20views&color=50c700&style=plastic" alt="nayanraut1412" /> </p>
 
